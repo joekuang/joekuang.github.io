@@ -25,7 +25,7 @@ body {
 .nav-content {
     width: 100px;
     display: inline-block;
-    font-size: 13px;
+    font-size: 12px;
     text-transform: uppercase;
 }
 
@@ -42,3 +42,14 @@ body {
     border-bottom: none;
 }
 
+.about {
+    text-align: center;
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 300;
+    font-family: "Open Sans", "Arial", sans serif;
+}
+
+.about a {
+    color: inherit;
+}
