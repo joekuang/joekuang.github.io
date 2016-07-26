@@ -1,5 +1,5 @@
 body {
-    background-color: #f7f7f7;
+    background-color: #f9f9f9;
     margin: 0;
 }
 
@@ -53,3 +53,10 @@ body {
 .about a {
     color: inherit;
 }
+
+#good-tastes,#good-tastes:hover {
+    text-decoration: none;
+    cursor: default;
+}
+
+
