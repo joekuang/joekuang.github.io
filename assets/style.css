@@ -1,6 +1,7 @@
 body {
     background-color: #f9f9f9;
     margin: 0;
+    text-align: center;
 }
 
 .content {
@@ -12,13 +13,11 @@ body {
 
 .name {
     font-size: 30px;
-    text-align: center;
     font-weight: bold;
     letter-spacing: 2px;
 }
 
 .nav {
-    text-align: center;
     padding-top: 10px;
 }
 
@@ -43,7 +42,6 @@ body {
 }
 
 .about {
-    text-align: center;
     font-size: 15px;
     line-height: 24px;
     font-weight: 300;
