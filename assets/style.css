@@ -34,6 +34,7 @@ body {
     text-decoration: none;
     border-bottom: 1px solid black;
     padding-left: 4px;
+    display: block;
 }
 
 .nav-content a.active,a:hover {
