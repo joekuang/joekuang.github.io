@@ -55,7 +55,7 @@ body {
 
 #good-tastes,#good-tastes:hover {
     text-decoration: none;
-    cursor: default;
+    /*cursor: default;*/
 }
 
 
